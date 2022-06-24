@@ -113,5 +113,6 @@ function sortTable(table, col, reverse) {
     </script>
     <p>Made by <a href="https://en.wikipedia.org/wiki/user:weeklyd3">weeklyd3</a>. Licensed under the GNU General Public License.</p>
 <p><a href="https://github.com/weeklyd3/non-reverted-edit-counter">Source code available</a> under GPL 3.0.</p>
+	<p>Hosted on Wikimedia Toolforge.</p>
     </body>
     </html>
